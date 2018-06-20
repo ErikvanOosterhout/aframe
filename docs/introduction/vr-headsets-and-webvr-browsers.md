@@ -114,6 +114,7 @@ VR headsets that A-Frame supports include:
 
 - HTC Vive with controllers and trackers
 - Oculus Rift with Touch controllers
+- Oculus Go with controller
 - Google Daydream with controller
 - Samsung GearVR with controller
 - Google Cardboard
